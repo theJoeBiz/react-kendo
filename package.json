@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/tjwebb/react-kendo",
   "peerDependencies": {
-    "react": ">=0.13.0",
+    "react": ">=0.13.0 || 0.14.0-rc1",
     "lodash": ">=3.0.0"
   },
   "devDependencies": {
